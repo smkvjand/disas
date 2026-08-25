@@ -1,0 +1,6 @@
+{
+  "name": "DISASTER RESPONSE",
+  "description": "Professional disaster management platform with Citizen, Volunteer, and Authority command experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
